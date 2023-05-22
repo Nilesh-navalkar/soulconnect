@@ -1,0 +1,11 @@
+.this{
+    margin-top: 60px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.outline{
+    width: 200px;
+    border: 1px white solid;
+    margin-left: 10px;
+}

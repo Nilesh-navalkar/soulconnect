@@ -1,0 +1,23 @@
+.header{
+    margin-top: 0;
+}
+.footer{
+    margin-bottom: 0;
+}
+.form{
+    margin: 10px 100px;
+}
+.profilepic{
+    height: 400px;
+    width: 400px;
+    overflow: hidden;
+}
+.logout{
+    width:100%;
+}
+.next{
+    margin-top: 10px;
+}
+.flow{
+    overflow: hidden;
+}
